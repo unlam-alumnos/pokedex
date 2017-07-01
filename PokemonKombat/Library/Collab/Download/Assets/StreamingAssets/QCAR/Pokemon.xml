@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="007-squirtle" size="1.000000 1.143333" />
+    <ImageTarget name="074-geodude" size="1.000000 0.468333" />
+    <ImageTarget name="025-pikachu" size="1.000000 1.345000" />
+    <ImageTarget name="004-charmander" size="1.000000 1.286667" />
+    <ImageTarget name="001-bulbasaur" size="1.000000 1.333333" />
+  </Tracking>
+</QCARConfig>
